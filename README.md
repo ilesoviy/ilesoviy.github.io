@@ -1,2 +1,2 @@
 # ilesoviy.github.io
-Ivan Lesoviy's Portfolio Website
+React Telegram WebApp
